@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+    margin: 0 30px;
+    background: #1F2937;
+    color: #fff;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.green {
+    color: #4ADF86;
+}
+
+.never, #gen-pass {
+    margin-bottom: 40px;
+}
+#gen-pass {
+    padding: 10px 15px;
+    background: #10B981;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    
+}
+.border {
+    border-bottom: 1px solid #666;
+}
+
+.passwords {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.pass {
+    display: flex;
+    min-height: 40px;
+    background: #273549;
+    width: 200px;
+    border-radius: 6px;
+    justify-content: center;
+    align-items: center;
+}
